@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class buttonmanager : MonoBehaviour
 {
@@ -22,6 +24,11 @@ public class buttonmanager : MonoBehaviour
             lanjutmenus.SetBool("bukalanjut", false);
             onklik = false;
         }
+    }
+
+    public void changescene(string scenename)
+    {
+        SceneManager.LoadScene(scenename);
     }
 
     public void Keluar()
