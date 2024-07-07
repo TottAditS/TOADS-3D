@@ -1,6 +1,6 @@
 <h1>TOADS-3D</h1>
 
-![0706(1)](https://github.com/TottAditS/TOADS-3D/assets/154248410/e59ed902-6c71-49ca-b3f4-2a348b2937da)
+![0706(1)](https://github.com/TottAditS/TOADS-3D/assets/154248410/d1458e69-3fcb-4777-898c-3d1cf72c47bc)
 
 <p>
   TOADS-3D description
