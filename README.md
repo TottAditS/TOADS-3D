@@ -1,6 +1,6 @@
 <h1>TOADS-3D</h1>
 
-![0706(5)](https://github.com/TottAditS/TOADS-3D/assets/154248410/c92dab92-7786-46e7-a0c6-7de2ac6c1fd6)
+![0706(7)](https://github.com/TottAditS/TOADS-3D/assets/154248410/39797c5c-402e-4f83-b8df-6ac8815423c3)
 
 <h3>About Game</h3>
 TOADS-3D [Prototype] is an exciting 3D First Person Shooter set in a modern era. You play as a police officer who survives a helicopter crash and finds yourself in an abandoned factory. The city is under attack by zombies, and your mission is to survive long enough until help arrives. Navigate through the eerie factory, fend off zombie hordes, and use your skills and wits to stay alive. Can you hold out long enough for rescue? Dive into the action and find out in TOADS-3D!
