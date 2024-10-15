@@ -3,7 +3,7 @@
 <h1>TOADS-3D</h1>
 
 <h3>About This Project</h3>
-This project was initially developed as part of a Game Programming assignment. However, I am continuing to improve and expand the game until it reaches completion. Currently, the development focus has shifted to implementing a multiplayer feature, which will require a major overhaul of the existing codebase. Despite the extensive changes, the addition of multiplayer capabilities will significantly enhance the overall gameplay experience, making the effort worthwhile.
+<p align="justify">This project was initially developed as part of a Game Programming assignment. However, I am continuing to improve and expand the game until it reaches completion. Currently, the development focus has shifted to implementing a multiplayer feature, which will require a major overhaul of the existing codebase. Despite the extensive changes, the addition of multiplayer capabilities will significantly enhance the overall gameplay experience, making the effort worthwhile.</p>
 
 <h3>Project Info</h3>
 
