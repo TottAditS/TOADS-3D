@@ -28,6 +28,8 @@
 <p align="justify">The optimization process focuses on implementing occlusion culling and Level of Detail (LOD) techniques to enhance performance and visual fidelity. Occlusion culling helps reduce the rendering load by preventing the game engine from drawing objects that are not visible to the player. Meanwhile, LOD management dynamically adjusts the level of detail of objects based on their distance from the camera, ensuring that high-detail models are only used when necessary. This ongoing effort aims to provide a smoother gameplay experience while maintaining graphical quality.</p>
 
 
+![TOADS-oklusion](https://github.com/user-attachments/assets/c49efc47-299a-449d-9de6-bfa699163fb7)
+
 <h3>NfO (Netcode For GameObjects)(Not Implemented)</h3>
 <p align="justify">The intention to integrate Netcode for GameObjects was to facilitate multiplayer capabilities, enabling players to engage in tank battles with friends or other players online. However, this feature has not yet been implemented in the current prototype. Future plans involve exploring this functionality to enhance the game's competitive aspects and allow for cooperative gameplay, ultimately providing a more engaging experience.</p>
 
