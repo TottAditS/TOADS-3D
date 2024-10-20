@@ -45,6 +45,18 @@
 <h3>What I Learned</h3>
 <p align="justify">Throughout the development of TOADS-3D [Prototype], I gained valuable insights into various aspects of game development, including optimization techniques such as occlusion culling and LOD management. I also learned about the challenges and considerations involved in implementing network functionality for multiplayer gameplay. Additionally, my experience with advanced post-processing in URP expanded my understanding of visual effects and how they impact player perception. Overall, this project has significantly enriched my skills in programming, level design, and game optimization.</p>
 
+## 📜 Scripts
+
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `TankController.cs` | Responsible for how the player control the Tank. For now its not yet dynamic. |
+| `TankBullet.cs`  | Manages bullet behaviour in the game |
+| `PlayerController.cs`  | Responsible for how the player control in the game. |
+| `WeaponManager.cs`  | Manages the logic behind Weapon Management |
+| `AmmoManager.cs`  | Manages the logic behind Ammo Management |
+| `Weapon.cs`  | Manages the logic behind weapon [not implemented] Scriptable Objects |
+| `etc`  |
+
 ## Files description
 
 ```
