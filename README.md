@@ -9,7 +9,8 @@
 
 | **Role** | **Team Size** | **Development Time** | **Engine** |
 |----------|---------------|---------------------|------------|
-| Game Programmer | 2 | 3 Weeks | Unity 2022 |
+| Game Programmer | 1 | 2 Weeks | Unity 2022 |
+| 3D Artist | 1 | 2 Weeks | Blender |
 
 <h3>Meet Me</h3>
 
